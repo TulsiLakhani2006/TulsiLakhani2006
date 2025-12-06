@@ -52,15 +52,6 @@
 
 ---
 
-## 🎯 High-Impact Project Goals 💡
-
-> 🚀 Future projects aimed at full-stack implementation and demonstrating utility.
-
-* **SaaS-Style Application:** Implement authentication, state management, and full database integration. 💳
-* **Smart City Reporting System:** Develop a platform involving user reporting and geographic data processing. 🏙️
-* **Professional Portfolio Website:** A modern, performant site built to showcase technical skills. 🖼️
-
----
 
 ## 🔧 Technical Toolkit 🧰
 
