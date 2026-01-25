@@ -27,14 +27,34 @@
 ## 🎓 About Me 🧑‍💻
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=7CF5FF&height=50&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7CF5FF&height=50&section=header"/>
 </div>
 
-* **3rd-year IT student.** 📚
-* **Loves designing clean UI/UX.** 🎨
-* **Builds real-world projects.** 🛠️
-* **Practices DSA daily (LC/GFG).** 📈
-* **Learning Full-Stack & System Design.** 🌐
+* **3rd-year IT student.** 📚  
+* **Loves designing clean UI/UX.** 🎨  
+* **Builds real-world projects.** 🛠️  
+* **Practices DSA daily (LC/GFG).** 📈  
+* **Learning Full-Stack & System Design.** 🌐  
+
+---
+
+## 🧠 Competitive Programming Profiles 🏆
+
+<div align="center">
+
+<a href="https://leetcode.com/u/TulsiLakhani06/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/tulsilaks01v/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+<a href="https://www.codechef.com/users/tulsilakhani3" target="_blank">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -44,14 +64,14 @@
 <summary> **Current Strategic Learning Roadmap** </summary>
 <br>
 
-* **Frontend:** Advanced React.js concepts (Performance, Hooks, Context). ⚛️
-* **Backend:** Node.js/Express.js for robust API development. ⚙️
-* **Data:** SQL optimization and efficient database management. 🗄️
-* **Algorithmics:** Mastering complex DSA patterns (DP, Sliding Window). 📊
+* **Frontend:** Advanced React.js concepts (Performance, Hooks, Context). ⚛️  
+* **Backend:** Node.js/Express.js for robust API development. ⚙️  
+* **Data:** SQL optimization and efficient database management. 🗄️  
+* **Algorithmics:** Mastering complex DSA patterns (DP, Sliding Window). 📊  
+
 </details>
 
 ---
-
 
 ## 🔧 Technical Toolkit 🧰
 
@@ -91,4 +111,5 @@
 > Utilizing **VS Code** and **NetBeans** for efficient development, with **Git/GitHub** for robust version control.
 
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7CF5FF&height=100&section=footer"/>
